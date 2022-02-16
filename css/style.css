@@ -26,3 +26,19 @@ li{
     display: inline-block;
     margin-top: 2vw;
 }
+footer{
+    background-image: linear-gradient(to bottom right, #33ccff, #99ff66, #EA7FEC);
+    width: 100vw;
+    height: 650px;
+    padding-top: 15vw;
+}
+.footerDiv{
+    background-color: #660746;
+    width: 65vw;
+    height: 600px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px grey;
+    margin-left: 15vw;
+    
+}
